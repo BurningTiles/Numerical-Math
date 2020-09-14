@@ -2,7 +2,7 @@
 
 Numerical math library to solve various numerical math questions.
 
-# Instruction of use.
+# Instruction for use.
 
 ```
 ~  Incude nmath.h in main program
